@@ -14,10 +14,10 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 .lanren {
 	margin: 20px auto;
-	width: 100px;
+	width: 200px;
 	text-align: center;
     height: 40px;
-    line-height: 100px;
+    line-height: 40px;
     border: 1px solid #CCC;
     border-radius: 2px;
 }
